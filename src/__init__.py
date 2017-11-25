@@ -6,7 +6,7 @@
  Tool to digitize b-splines
                              -------------------
         begin                : 2017-10-29
-        copyright            : (C) 2017 by Pocketsail Ltd.
+        copyright            : (C) 2017 by David Stefan
         email                : stefda@gmail.com
         git sha              : $Format:%H$
  ***************************************************************************/

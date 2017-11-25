@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'BSpline'
-copyright = u'2013, Pocketsail Ltd.'
+copyright = u'2013, David Stefan'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -179,7 +179,7 @@ htmlhelp_basename = 'TemplateClassdoc'
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'BSpline.tex', u'BSpline Documentation',
-   u'Pocketsail Ltd.', 'manual'),
+   u'David Stefan', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -212,5 +212,5 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'TemplateClass', u'BSpline Documentation',
-     [u'Pocketsail Ltd.'], 1)
+     [u'David Stefan'], 1)
 ]

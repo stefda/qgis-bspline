@@ -11,13 +11,13 @@ name=B-Spline
 qgisMinimumVersion=2.0
 description=Tool to digitize b-splines
 version=1.0
-author=Pocketsail Ltd.
+author=David Stefan
 email=stefda@gmail.com
 
 about=Tool to digitize b-splines.
 
-tracker=https://github.com/stefda/bspline/issues
-repository=https://github.com/stefda/bspline
+tracker=https://github.com/stefda/qgis-bspline/issues
+repository=https://github.com/stefda/qgis-bspline
 # End of mandatory metadata
 
 # Recommended items:
@@ -28,7 +28,7 @@ repository=https://github.com/stefda/bspline
 # Tags are comma separated with spaces allowed
 tags=
 
-homepage=https://github.com/stefda/bspline
+homepage=https://github.com/stefda/qgis-bspline
 category=Plugins
 icon=icon.png
 # experimental flag
@@ -36,4 +36,3 @@ experimental=True
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
-

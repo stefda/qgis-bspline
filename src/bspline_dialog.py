@@ -7,7 +7,7 @@
                              -------------------
         begin                : 2017-10-29
         git sha              : $Format:%H$
-        copyright            : (C) 2017 by Pocketsail Ltd.
+        copyright            : (C) 2017 David Stefan
         email                : stefda@gmail.com
  ***************************************************************************/
 
